@@ -1,0 +1,9 @@
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.ViewModels\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.ViewModels.deps.json
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.ViewModels\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.ViewModels.dll
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.ViewModels\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.ViewModels.pdb
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.ViewModels\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.ViewModels\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.ViewModels\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.ViewModels.AssemblyInfoInputs.cache
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.ViewModels\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.ViewModels.AssemblyInfo.cs
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.ViewModels\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.ViewModels.dll
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.ViewModels\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.ViewModels.pdb

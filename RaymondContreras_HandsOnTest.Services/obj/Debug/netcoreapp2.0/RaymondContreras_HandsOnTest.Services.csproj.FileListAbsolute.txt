@@ -1,0 +1,17 @@
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.Services.deps.json
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.Services.dll
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.Services.pdb
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.Models.dll
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.ViewModels.dll
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.Models.pdb
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.ViewModels.pdb
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.Services.csprojResolveAssemblyReference.cache
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.Services.csproj.CoreCompileInputs.cache
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.Services.AssemblyInfoInputs.cache
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.Services.AssemblyInfo.cs
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.Services.dll
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.Services\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.Services.pdb

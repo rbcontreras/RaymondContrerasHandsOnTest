@@ -1,0 +1,17 @@
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.WebApi.deps.json
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.WebApi.runtimeconfig.json
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.WebApi.runtimeconfig.dev.json
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.WebApi.dll
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.WebApi.pdb
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.Models.dll
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.Services.dll
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.ViewModels.dll
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.Services.pdb
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.ViewModels.pdb
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\bin\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.Models.pdb
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.WebApi.AssemblyInfoInputs.cache
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.WebApi.AssemblyInfo.cs
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.WebApi.dll
+C:\Users\raymond\source\repos\RaymondContreras_HandsOnTest\RaymondContreras_HandsOnTest.WebApi\obj\Debug\netcoreapp2.0\RaymondContreras_HandsOnTest.WebApi.pdb
